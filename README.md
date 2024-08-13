@@ -1,4 +1,4 @@
-C Programs Collection
+#C Programs Collection
 
 Welcome to my collection of C programs! These are the programs I wrote while learning the C programming language. They cover various fundamental concepts and serve as examples of different programming techniques in C. I hope you find them helpful in your learning journey.
 
